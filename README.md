@@ -1,9 +1,5 @@
 # dmug1
 
-<h3 align="left">Let`s connect:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/diegomugnae/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 
 
 <div style="display: inline_block"><br>
@@ -18,3 +14,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmug1)](https://git.io/streak-stats)
+
+<h3 align="left">Let`s connect:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/diegomugnae/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
