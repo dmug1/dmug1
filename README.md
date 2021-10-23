@@ -18,3 +18,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 
 </p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmug1)](https://git.io/streak-stats)
