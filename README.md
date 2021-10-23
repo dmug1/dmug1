@@ -11,10 +11,9 @@
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />    
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javscript" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line.svg" alt="javscript" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="javscript" width="40" height="40" />
 
   
 
