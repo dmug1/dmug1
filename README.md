@@ -2,7 +2,7 @@
 
 <h3 align="left">Let`s connect:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/diegomugnae/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diegomugnae/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
